@@ -1,0 +1,8 @@
+{"round":"r2","seeds":[11,123,555,808,3,17,31,77],
+ "settings":[
+  {"name":"e45_c30","exaggeration":0.45,"cfg_weight":0.3,"temperature":0.8,"only":["l1","l5"]},
+  {"name":"e45_c30_comma","exaggeration":0.45,"cfg_weight":0.3,"temperature":0.8,"only":["l1"],
+   "lines":{"l1":"Banned in sport, since twenty eighteen. Most people have never seen the lab data."}},
+  {"name":"e60_c50","exaggeration":0.60,"cfg_weight":0.5,"temperature":0.8,"only":["l1","l5"],
+   "hold":{"l1":0.12,"l5":0.10},"lines":{"l5":"Mice, rats, and cells. Human data is thin."}}
+ ]}
