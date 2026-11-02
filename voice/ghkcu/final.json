@@ -1,0 +1,186 @@
+{
+ "lines": {
+  "l1": {
+   "from": "r1/e45_c30/s99",
+   "say": "G H K copper drops sixty percent by age sixty. What did it do in lab studies?",
+   "tempo": 1.12,
+   "m": {
+    "dur": 4.14,
+    "lead_sil": 0.04,
+    "tail_sil": 0.02,
+    "pauses": [],
+    "f0_med": 144.1,
+    "f0_sd_semitones": 5.88,
+    "f0_range_st_p10_p90": 15.25,
+    "level_sd_db": 8.23,
+    "clip_pct": 0.0,
+    "peak_frame_db": -8.9,
+    "wps": 3.38
+   },
+   "w": {
+    "text": "GHK copper drops 60% by age 60. What did it do in lab studies?",
+    "no_speech": 0.001,
+    "logprob": -0.268,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l2": {
+   "from": "r1/e45_c30/s2024",
+   "say": "First found in human blood in nineteen seventy-three. Most lab work since looks at skin.",
+   "tempo": 1.029,
+   "m": {
+    "dur": 4.38,
+    "lead_sil": 0.04,
+    "tail_sil": 0.02,
+    "pauses": [
+     0.2
+    ],
+    "f0_med": 137.9,
+    "f0_sd_semitones": 4.88,
+    "f0_range_st_p10_p90": 13.33,
+    "level_sd_db": 8.31,
+    "clip_pct": 0.0,
+    "peak_frame_db": -9.5,
+    "wps": 3.2
+   },
+   "w": {
+    "text": "First found in human blood in 1973, most lab work since looks at skin.",
+    "no_speech": 0.001,
+    "logprob": -0.225,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l3": {
+   "from": "r1/e45_c30/s99",
+   "say": "In a dish, fibroblasts made more collagen, the protein that holds skin together.",
+   "tempo": 1.049,
+   "m": {
+    "dur": 4.1,
+    "lead_sil": 0.02,
+    "tail_sil": 0.02,
+    "pauses": [
+     0.18
+    ],
+    "f0_med": 145.5,
+    "f0_sd_semitones": 4.85,
+    "f0_range_st_p10_p90": 13.23,
+    "level_sd_db": 8.44,
+    "clip_pct": 0.0,
+    "peak_frame_db": -9.1,
+    "wps": 3.17
+   },
+   "w": {
+    "text": "In a dish, fibroblasts made more collagen, the protein that holds skin together.",
+    "no_speech": 0.0,
+    "logprob": -0.198,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l4": {
+   "from": "r2/e60_c50/s555",
+   "say": "G H K copper is just three amino acids, holding one copper atom.",
+   "tempo": 1.1,
+   "m": {
+    "dur": 3.16,
+    "lead_sil": 0.04,
+    "tail_sil": 0.0,
+    "pauses": [],
+    "f0_med": 145.5,
+    "f0_sd_semitones": 5.25,
+    "f0_range_st_p10_p90": 13.42,
+    "level_sd_db": 7.78,
+    "clip_pct": 0.0,
+    "peak_frame_db": -10.6,
+    "wps": 3.16
+   },
+   "w": {
+    "text": "GHK copper is just three amino acids holding one copper atom.",
+    "no_speech": 0.0,
+    "logprob": -0.252,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l5": {
+   "from": "r1/e45_c30/s2024",
+   "say": "Mostly cell and animal studies. Human data is thin.",
+   "tempo": 1.088,
+   "m": {
+    "dur": 2.84,
+    "lead_sil": 0.02,
+    "tail_sil": 0.02,
+    "pauses": [
+     0.2
+    ],
+    "f0_med": 140.4,
+    "f0_sd_semitones": 5.0,
+    "f0_range_st_p10_p90": 12.21,
+    "level_sd_db": 7.94,
+    "clip_pct": 0.0,
+    "peak_frame_db": -11.6,
+    "wps": 3.17
+   },
+   "w": {
+    "text": "mostly cell and animal studies. Human data is thin.",
+    "no_speech": 0.002,
+    "logprob": -0.333,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l6": {
+   "from": "r1/e45_c30/s7",
+   "say": "Which peptide should we zoom into next?",
+   "tempo": 0.95,
+   "m": {
+    "dur": 2.2,
+    "lead_sil": 0.04,
+    "tail_sil": 0.02,
+    "pauses": [],
+    "f0_med": 148.1,
+    "f0_sd_semitones": 4.42,
+    "f0_range_st_p10_p90": 14.08,
+    "level_sd_db": 8.68,
+    "clip_pct": 0.0,
+    "peak_frame_db": -8.6,
+    "wps": 3.18
+   },
+   "w": {
+    "text": "Which peptide should we zoom into next?",
+    "no_speech": 0.0,
+    "logprob": -0.242,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  }
+ },
+ "consistency_st": 1.24,
+ "with_tb500_v4_st": 1.73
+}
