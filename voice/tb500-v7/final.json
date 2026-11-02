@@ -1,0 +1,35 @@
+{
+ "lines": {
+  "l1": {
+   "from": "r1/e60_c50/s7",
+   "say": "On wada's banned list, since twenty eighteen. Most people have never seen the lab data.",
+   "tempo": 0.98,
+   "m": {
+    "dur": 4.08,
+    "lead_sil": 0.0,
+    "tail_sil": 0.02,
+    "pauses": [],
+    "f0_med": 136.8,
+    "f0_sd_semitones": 4.74,
+    "f0_range_st_p10_p90": 12.16,
+    "level_sd_db": 8.23,
+    "clip_pct": 0.0,
+    "peak_frame_db": -10.2,
+    "wps": 3.43
+   },
+   "w": {
+    "text": "On Wada's banned list since 2018, most people have never seen the lab data.",
+    "no_speech": 0.002,
+    "logprob": -0.227,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  }
+ },
+ "consistency_st": 0.0,
+ "with_tb500_v4_and_ghkcu_st": 1.87
+}

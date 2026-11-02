@@ -1,0 +1,7 @@
+{"round":"r2","seeds":[11,123,555,808,3,17,31,77,1234,4242],
+ "settings":[
+  {"name":"e45_c30","exaggeration":0.45,"cfg_weight":0.3,"temperature":0.8,"only":["l4"]},
+  {"name":"e60_c50","exaggeration":0.60,"cfg_weight":0.5,"temperature":0.8,"only":["l4"],"hold":{"l4":0.10}},
+  {"name":"e60_c50_comma","exaggeration":0.60,"cfg_weight":0.5,"temperature":0.8,"only":["l4"],"hold":{"l4":0.10},
+   "lines":{"l4":"G H K is three amino acids, holding one copper atom."}}
+ ]}

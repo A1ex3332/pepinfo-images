@@ -1,0 +1,15 @@
+[
+ {"id":"l1","text":"Your blood carries a copper peptide. What did labs find?","say":"Your blood carries a copper peptide. What did labs find?",
+  "keys":["yourblood","carries","acopperpeptide","whatdidlabsfind"]},
+ {"id":"l2","text":"Labs mostly study GHK in skin.","say":"Labs mostly study G H K in skin.",
+  "keys":["labsmostly","studyghk","inskin"]},
+ {"id":"l3","text":"In a dish, fibroblasts, the cells that build skin, made more collagen.","say":"In a dish, fibroblasts, the cells that build skin, made more collagen.",
+  "keys":["inadish","fibroblasts","thecells","buildskin","mademorecollagen"]},
+ {"id":"l4","text":"GHK is three amino acids holding one copper atom.","say":"G H K is three amino acids holding one copper atom.",
+  "keys":["ghkis","threeaminoacids","holdingonecopperatom"]},
+ {"id":"l5","text":"Mostly cell and animal studies. Human data is thin.","say":"Mostly cell and animal studies. Human data is thin.",
+  "keys":["mostlycell","animalstudies","humandata","thin"]},
+ {"id":"l6","text":"Which peptide should we zoom into next?","say":"Which peptide should we zoom into next?",
+  "keys":["whichpeptide","zoom","next"],
+  "reuse":{"results":"../ghkcu/work/r1/results.json","setting":"e45_c30","seed":7,"dir":"../ghkcu/work/r1","tag":"ghkcu-r1"}}
+]

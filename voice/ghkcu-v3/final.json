@@ -1,0 +1,185 @@
+{
+ "lines": {
+  "l1": {
+   "from": "r1/e45_c30/s2024",
+   "say": "Your blood carries a copper peptide. What did labs find?",
+   "tempo": 1.049,
+   "m": {
+    "dur": 2.96,
+    "lead_sil": 0.02,
+    "tail_sil": 0.0,
+    "pauses": [],
+    "f0_med": 145.5,
+    "f0_sd_semitones": 4.61,
+    "f0_range_st_p10_p90": 10.03,
+    "level_sd_db": 8.87,
+    "clip_pct": 0.0,
+    "peak_frame_db": -12.6,
+    "wps": 3.38
+   },
+   "w": {
+    "text": "Your blood carries a copper peptide. What did labs find?",
+    "no_speech": 0.001,
+    "logprob": -0.224,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l2": {
+   "from": "r1/e60_c50/s42",
+   "say": "Labs mostly study G H K in skin.",
+   "tempo": 1.12,
+   "m": {
+    "dur": 1.98,
+    "lead_sil": 0.02,
+    "tail_sil": 0.0,
+    "pauses": [],
+    "f0_med": 139.1,
+    "f0_sd_semitones": 4.48,
+    "f0_range_st_p10_p90": 12.44,
+    "level_sd_db": 8.36,
+    "clip_pct": 0.0,
+    "peak_frame_db": -12.2,
+    "wps": 3.03
+   },
+   "w": {
+    "text": "Labs mostly study GHK in skin.",
+    "no_speech": 0.0,
+    "logprob": -0.267,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l3": {
+   "from": "r1/e45_c30/s42",
+   "say": "In a dish, fibroblasts, the cells that build skin, made more collagen.",
+   "tempo": 1.092,
+   "m": {
+    "dur": 3.8,
+    "lead_sil": 0.02,
+    "tail_sil": 0.0,
+    "pauses": [
+     0.18,
+     0.18
+    ],
+    "f0_med": 141.6,
+    "f0_sd_semitones": 4.82,
+    "f0_range_st_p10_p90": 13.45,
+    "level_sd_db": 8.59,
+    "clip_pct": 0.0,
+    "peak_frame_db": -9.1,
+    "wps": 3.16
+   },
+   "w": {
+    "text": "In a dish, fibroblasts, the cells that build skin made more collagen.",
+    "no_speech": 0.0,
+    "logprob": -0.192,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l4": {
+   "from": "r2/e60_c50_comma/s77",
+   "say": "G H K is three amino acids, holding one copper atom.",
+   "tempo": 1.12,
+   "m": {
+    "dur": 2.96,
+    "lead_sil": 0.02,
+    "tail_sil": 0.0,
+    "pauses": [],
+    "f0_med": 137.9,
+    "f0_sd_semitones": 4.92,
+    "f0_range_st_p10_p90": 11.86,
+    "level_sd_db": 7.93,
+    "clip_pct": 0.0,
+    "peak_frame_db": -13.7,
+    "wps": 3.04
+   },
+   "w": {
+    "text": "GHK is three amino acids, holding one copper atom.",
+    "no_speech": 0.001,
+    "logprob": -0.273,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l5": {
+   "from": "r1/e45_c30/s2024",
+   "say": "Mostly cell and animal studies. Human data is thin.",
+   "tempo": 1.088,
+   "m": {
+    "dur": 2.84,
+    "lead_sil": 0.02,
+    "tail_sil": 0.02,
+    "pauses": [
+     0.2
+    ],
+    "f0_med": 140.4,
+    "f0_sd_semitones": 5.0,
+    "f0_range_st_p10_p90": 12.21,
+    "level_sd_db": 7.94,
+    "clip_pct": 0.0,
+    "peak_frame_db": -11.6,
+    "wps": 3.17
+   },
+   "w": {
+    "text": "mostly cell and animal studies. Human data is thin.",
+    "no_speech": 0.002,
+    "logprob": -0.333,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l6": {
+   "from": "r1/e45_c30/s7",
+   "say": "Which peptide should we zoom into next?",
+   "tempo": 0.95,
+   "m": {
+    "dur": 2.2,
+    "lead_sil": 0.04,
+    "tail_sil": 0.02,
+    "pauses": [],
+    "f0_med": 148.1,
+    "f0_sd_semitones": 4.42,
+    "f0_range_st_p10_p90": 14.08,
+    "level_sd_db": 8.68,
+    "clip_pct": 0.0,
+    "peak_frame_db": -8.6,
+    "wps": 3.18
+   },
+   "w": {
+    "text": "Which peptide should we zoom into next?",
+    "no_speech": 0.0,
+    "logprob": -0.242,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  }
+ },
+ "consistency_st": 1.24,
+ "with_tb500_v4_and_ghkcu_st": 1.73
+}
