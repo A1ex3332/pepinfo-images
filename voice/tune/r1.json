@@ -1,0 +1,50 @@
+﻿{
+    "round":  "r1",
+    "seeds":  [
+                  42
+              ],
+    "settings":  [
+                     {
+                         "cfg_weight":  0.3,
+                         "exaggeration":  0.45,
+                         "name":  "e45_c30",
+                         "atempo":  1,
+                         "temperature":  0.8
+                     },
+                     {
+                         "cfg_weight":  0.5,
+                         "exaggeration":  0.45,
+                         "name":  "e45_c50",
+                         "atempo":  1,
+                         "temperature":  0.8
+                     },
+                     {
+                         "cfg_weight":  0.3,
+                         "exaggeration":  0.65,
+                         "name":  "e65_c30",
+                         "atempo":  1,
+                         "temperature":  0.8
+                     },
+                     {
+                         "cfg_weight":  0.5,
+                         "exaggeration":  0.65,
+                         "name":  "e65_c50",
+                         "atempo":  1,
+                         "temperature":  0.8
+                     },
+                     {
+                         "cfg_weight":  0.3,
+                         "exaggeration":  0.85,
+                         "name":  "e85_c30",
+                         "atempo":  1,
+                         "temperature":  0.8
+                     },
+                     {
+                         "cfg_weight":  0.5,
+                         "exaggeration":  0.85,
+                         "name":  "e85_c50",
+                         "atempo":  1,
+                         "temperature":  0.8
+                     }
+                 ]
+}

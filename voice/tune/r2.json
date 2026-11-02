@@ -1,0 +1,9 @@
+{"round":"r2","seeds":[42,7,2024],
+ "lines":{"cells":"Inside cells, it grabs actin... the bricks cells use to crawl.",
+          "mol":"Natural thy-mo-sin beta 4 is forty-three amino acids. Some T B 500 is just seven of them."},
+ "settings":[
+  {"name":"ref_e45_c30","exaggeration":0.45,"cfg_weight":0.3,"temperature":0.8,"ref":"ref/ref_r1.wav","autotempo":true},
+  {"name":"ref_e40_c30_t70","exaggeration":0.40,"cfg_weight":0.3,"temperature":0.7,"ref":"ref/ref_r1.wav","autotempo":true},
+  {"name":"ref_e55_c30","exaggeration":0.55,"cfg_weight":0.3,"temperature":0.8,"ref":"ref/ref_r1.wav","autotempo":true},
+  {"name":"def_e45_c30","exaggeration":0.45,"cfg_weight":0.3,"temperature":0.8,"autotempo":true}
+ ]}

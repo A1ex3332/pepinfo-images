@@ -1,0 +1,8 @@
+{"round":"r4","seeds":[42,7,2024,99,11,123,555,808],"only":["mol","verdict"],
+ "lines":{"mol":"Natural thy-mo-sin beta 4 is forty-three amino acids. Some T B 500 is just seven of them."},
+ "settings":[
+  {"name":"ref_e60_c50_hold08","exaggeration":0.60,"cfg_weight":0.5,"ref":"ref/ref_r1.wav","autotempo":true,"tempo_range":[0.88,1.12],
+   "hold":{"mol":0.10,"verdict":0.08}},
+  {"name":"ref_e55_c50_commas","exaggeration":0.55,"cfg_weight":0.5,"ref":"ref/ref_r1.wav","autotempo":true,"tempo_range":[0.88,1.12],
+   "hold":{"mol":0.10,"verdict":0.08},"lines":{"verdict":"Mice, rats, cells, THIN human data. Case stays open."}}
+ ]}
