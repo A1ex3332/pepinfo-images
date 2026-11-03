@@ -1,0 +1,8 @@
+[
+ {"id": "l1", "text": "Your stomach shreds protein all day. Here's how.", "say": "Your stomach shreds protein all day. Here's how.", "keys": ["yourstomach", "shredsprotein", "allday", "hereshow"]},
+ {"id": "l2", "text": "The stomach lining pumps out acid, around P H two.", "say": "The stomach lining pumps out acid, around P H two.", "keys": ["stomachlining", "pumpsoutacid", "aroundph", "two"]},
+ {"id": "l3", "text": "That acid unfolds proteins, so enzymes can reach their bonds.", "say": "That acid unfolds proteins, so enzymes can reach their bonds.", "keys": ["thatacid", "unfoldsproteins", "enzymes", "reachtheirbonds"]},
+ {"id": "l4", "text": "Pepsin cuts the chain into short pieces. Later, enzymes in the intestine cut them even smaller.", "say": "Pepsin cuts the chain into short pieces. Later, enzymes in the intestine cut them even smaller.", "keys": ["pepsincuts", "thechain", "shortpieces", "enzymesintheintestine", "cutthemevensmaller"]},
+ {"id": "l5", "text": "Most protein ends up as single amino acids and tiny pieces the intestine absorbs.", "say": "Most protein ends up as single amino acids and tiny pieces the intestine absorbs.", "keys": ["mostprotein", "singleaminoacids", "tinypieces", "theintestineabsorbs"]},
+ {"id": "l6", "text": "What should we zoom into next?", "say": "What should we zoom into next?", "keys": ["whatshouldwe", "zoom", "next"]}
+]

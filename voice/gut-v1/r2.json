@@ -1,0 +1,6 @@
+{"round":"r2","seeds":[1,3,11,21,77,123,314,555],
+ "settings":[
+  {"name":"e45_c30","exaggeration":0.45,"cfg_weight":0.3,"temperature":0.8,"only":["l6"]},
+  {"name":"e45_c30_comma","exaggeration":0.45,"cfg_weight":0.3,"temperature":0.8,"only":["l6"],"lines":{"l6":"What should we zoom into, next?"}},
+  {"name":"e40_c20","exaggeration":0.40,"cfg_weight":0.2,"temperature":0.8,"only":["l6"]}
+ ]}

@@ -1,0 +1,183 @@
+{
+ "lines": {
+  "l1": {
+   "from": "r1/e45_c30/s42",
+   "say": "Your stomach shreds protein all day. Here's how.",
+   "tempo": 1.062,
+   "m": {
+    "dur": 2.34,
+    "lead_sil": 0.04,
+    "tail_sil": 0.02,
+    "pauses": [],
+    "f0_med": 146.8,
+    "f0_sd_semitones": 5.89,
+    "f0_range_st_p10_p90": 15.99,
+    "level_sd_db": 8.02,
+    "clip_pct": 0.0,
+    "peak_frame_db": -12.0,
+    "wps": 3.42
+   },
+   "w": {
+    "text": "your stomach shreds protein all day. Here's how.",
+    "no_speech": 0.002,
+    "logprob": -0.227,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l2": {
+   "from": "r1/e45_c30/s7",
+   "say": "The stomach lining pumps out acid, around P H two.",
+   "tempo": 0.997,
+   "m": {
+    "dur": 2.82,
+    "lead_sil": 0.04,
+    "tail_sil": 0.02,
+    "pauses": [],
+    "f0_med": 139.7,
+    "f0_sd_semitones": 4.38,
+    "f0_range_st_p10_p90": 9.81,
+    "level_sd_db": 7.79,
+    "clip_pct": 0.0,
+    "peak_frame_db": -12.9,
+    "wps": 3.19
+   },
+   "w": {
+    "text": "the stomach lining pumps out acid around pH 2.",
+    "no_speech": 0.001,
+    "logprob": -0.344,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l3": {
+   "from": "r1/e45_c30/s42",
+   "say": "That acid unfolds proteins, so enzymes can reach their bonds.",
+   "tempo": 1.119,
+   "m": {
+    "dur": 3.16,
+    "lead_sil": 0.02,
+    "tail_sil": 0.02,
+    "pauses": [],
+    "f0_med": 137.9,
+    "f0_sd_semitones": 4.86,
+    "f0_range_st_p10_p90": 12.54,
+    "level_sd_db": 7.85,
+    "clip_pct": 0.0,
+    "peak_frame_db": -9.9,
+    "wps": 3.16
+   },
+   "w": {
+    "text": "That acid unfolds proteins, so enzymes can reach their bonds.",
+    "no_speech": 0.0,
+    "logprob": -0.291,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l4": {
+   "from": "r1/e45_c30/s42",
+   "say": "Pepsin cuts the chain into short pieces. Later, enzymes in the intestine cut them even smaller.",
+   "tempo": 1.103,
+   "m": {
+    "dur": 5.04,
+    "lead_sil": 0.02,
+    "tail_sil": 0.0,
+    "pauses": [
+     0.16,
+     0.16
+    ],
+    "f0_med": 149.5,
+    "f0_sd_semitones": 5.32,
+    "f0_range_st_p10_p90": 14.33,
+    "level_sd_db": 8.36,
+    "clip_pct": 0.0,
+    "peak_frame_db": -9.1,
+    "wps": 3.17
+   },
+   "w": {
+    "text": "Pepsin cuts the chain into short pieces. Later, enzymes in the intestine cut them even smaller.",
+    "no_speech": 0.001,
+    "logprob": -0.239,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l5": {
+   "from": "r1/e45_c30/s42",
+   "say": "Most protein ends up as single amino acids and tiny pieces the intestine absorbs.",
+   "tempo": 1.009,
+   "m": {
+    "dur": 4.4,
+    "lead_sil": 0.02,
+    "tail_sil": 0.04,
+    "pauses": [],
+    "f0_med": 136.8,
+    "f0_sd_semitones": 5.61,
+    "f0_range_st_p10_p90": 14.09,
+    "level_sd_db": 7.83,
+    "clip_pct": 0.0,
+    "peak_frame_db": -10.6,
+    "wps": 3.18
+   },
+   "w": {
+    "text": "Most protein ends up as single amino acids and tiny pieces the intestine absorbs.",
+    "no_speech": 0.0,
+    "logprob": -0.162,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  },
+  "l6": {
+   "from": "r2/e45_c30_comma/s3",
+   "say": "What should we zoom into, next?",
+   "tempo": 0.88,
+   "m": {
+    "dur": 1.82,
+    "lead_sil": 0.02,
+    "tail_sil": 0.02,
+    "pauses": [],
+    "f0_med": 149.5,
+    "f0_sd_semitones": 5.78,
+    "f0_range_st_p10_p90": 16.75,
+    "level_sd_db": 8.93,
+    "clip_pct": 0.0,
+    "peak_frame_db": -11.3,
+    "wps": 3.3
+   },
+   "w": {
+    "text": "What should we zoom into next?",
+    "no_speech": 0.0,
+    "logprob": -0.258,
+    "sim": 1.0,
+    "missing": [],
+    "diff": [],
+    "tolerated": [],
+    "words_ok": true
+   },
+   "fails": []
+  }
+ },
+ "consistency_st": 1.54,
+ "with_earlier_st": 1.87
+}
