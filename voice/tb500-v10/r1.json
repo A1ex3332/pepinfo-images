@@ -1,0 +1,4 @@
+{"round":"r1","seeds":[42,7,2024,99,555,11],
+ "settings":[
+  {"name":"e45_c30","exaggeration":0.45,"cfg_weight":0.3,"temperature":0.8}
+ ]}

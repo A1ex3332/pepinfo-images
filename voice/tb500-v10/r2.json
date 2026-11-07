@@ -1,0 +1,5 @@
+{"round":"r2","seeds":[3,17,123,314,777,2025],
+ "settings":[
+  {"name":"e45_c30","exaggeration":0.45,"cfg_weight":0.3,"temperature":0.8},
+  {"name":"e60_c50","exaggeration":0.60,"cfg_weight":0.5,"temperature":0.8}
+ ]}
