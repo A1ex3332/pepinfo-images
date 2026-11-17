@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>pepinfo07 links</title>
+<meta name="description" content="Peptide research shops featured on @pepinfo07, with affiliate codes. Research use only, 21+.">
+<meta name="robots" content="noindex">
+<style>
+  :root {
+    --bg: #0d1117; --card: #161b22; --border: #30363d; --text: #e6edf3;
+    --muted: #8b949e; --accent: #58a6ff; --code-bg: #0b2a4a;
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #f6f8fa; --card: #ffffff; --border: #d0d7de; --text: #1f2328;
+      --muted: #57606a; --accent: #0969da; --code-bg: #ddf4ff;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 480px; margin: 0 auto; padding: 28px 16px 40px; }
+  header { text-align: center; margin-bottom: 18px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .tag { color: var(--muted); margin: 0; }
+  .notice {
+    border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px;
+    font-size: 13px; color: var(--muted); text-align: center; margin-bottom: 18px;
+  }
+  .notice strong { color: var(--text); }
+  .shop {
+    background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+    padding: 14px; margin-bottom: 12px;
+  }
+  .shop a.go {
+    display: block; text-align: center; text-decoration: none; font-weight: 600;
+    background: var(--accent); color: #fff; border-radius: 10px; padding: 12px;
+  }
+  .row { display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap; margin-top: 10px; font-size: 14px; }
+  .code {
+    font: 600 14px ui-monospace, SFMono-Regular, Menlo, monospace;
+    background: var(--code-bg); border: 1px dashed var(--accent); border-radius: 8px;
+    padding: 4px 10px; cursor: pointer; color: var(--text);
+  }
+  .note { color: var(--muted); font-size: 13px; text-align: center; margin: 8px 0 0; }
+  footer { color: var(--muted); font-size: 12px; text-align: center; margin-top: 22px; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>@pepinfo07</h1>
+    <p class="tag">Peptide research explained simply</p>
+  </header>
+
+  <p class="notice"><strong>Research use only · 21+ · affiliate links.</strong><br>
+  We earn a commission if you buy through these links. Not medical advice. Products are sold for laboratory research only, not for human consumption.</p>
+
+  <section class="shop">
+    <a class="go" href="https://voidresearch.shop/?ref=INFO15" rel="sponsored noopener">Void Research</a>
+    <div class="row">Code <button class="code" type="button">INFO15</button></div>
+    <div class="row">Offers <button class="code" type="button">INFO30</button><button class="code" type="button">INFO3FOR2</button></div>
+    <p class="note">INFO30: 30% off + free shipping. INFO3FOR2: buy 3 vials, get 2 free.</p>
+  </section>
+
+  <section class="shop">
+    <a class="go" href="https://superiorlabsresearch.com/?ref=info15" rel="sponsored noopener">Superior Labs Research</a>
+    <div class="row">Code <button class="code" type="button">info15</button></div>
+    <p class="note">Ships within the US only.</p>
+  </section>
+
+  <section class="shop">
+    <a class="go" href="https://refinedbiolabs.com?utm_source=affiliate_marketing&amp;code=INFO15" rel="sponsored noopener">Refined Bio Labs</a>
+    <div class="row">Code <button class="code" type="button">INFO15</button></div>
+  </section>
+
+  <section class="shop">
+    <a class="go" href="https://alaskalabs.is/?ref=INFO15" rel="sponsored noopener">Alaska Labs</a>
+    <div class="row">Code <button class="code" type="button">INFO15</button></div>
+  </section>
+
+  <footer>Tap a code to copy it. Prices and offers are set by each shop and can change.</footer>
+</main>
+<script>
+  document.querySelectorAll('.code').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var t = b.dataset.code || (b.dataset.code = b.textContent);
+      try {
+        navigator.clipboard.writeText(t).then(function () {
+          b.textContent = 'Copied';
+          setTimeout(function () { b.textContent = t; }, 1200);
+        });
+      } catch (e) {}
+    });
+  });
+</script>
+</body>
+</html>
