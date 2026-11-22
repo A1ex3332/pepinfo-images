@@ -1,9 +1,36 @@
-{"hook": ["Untested peptide seller?", "Watch what a COA does."], "hook_b_at": 0.4,
- "rehook": "A real COA checks 3 things", "rehook_at": [2.3, 5.3], "card_at": 5.5, "total": 15,
+{
+ "hook": [
+  "Untested peptide seller?",
+  "Watch what a COA does."
+ ],
+ "hook_b_at": 0.4,
+ "rehook": "A real COA checks 3 things",
+ "rehook_at": [
+  2.3,
+  5.3
+ ],
+ "card_at": 5.5,
+ "total": 15,
  "card_title": "What a real lab test checks",
- "items": [["IDENTITY", "Mass spec: is it the right molecule?"],
-           ["PURITY", "HPLC: how much of it is something else?"],
-           ["CONTENT", "How much is actually in the vial?"]],
- "cta": ["Save this for the next time", "a seller says \"trust me\"."],
+ "items": [
+  [
+   "IDENTITY",
+   "Mass spec: is it the right molecule?"
+  ],
+  [
+   "PURITY",
+   "HPLC: how much of it is something else?"
+  ],
+  [
+   "CONTENT",
+   "How much is actually in the vial?"
+  ]
+ ],
+ "cta": [
+  "Save this for the next time",
+  "a seller says \"trust me\"."
+ ],
  "source": "Purity source: D'Hondt et al. 2014, J Pharm Biomed Anal (review)",
- "ruo": "Research use only. Not for human consumption. 21+."}
+ "ruo": "Research use only. Not for human consumption. 21+.",
+ "af": "anull"
+}

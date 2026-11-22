@@ -13,8 +13,7 @@ CY, RED, WH, MU = (51, 225, 255), (255, 107, 107), (242, 245, 247), (154, 167, 1
 frames = sorted(x for x in os.listdir(fd) if x.startswith("f") and x.endswith(".png"))
 N = int(K["total"] * FPS)
 p = subprocess.Popen(["ffmpeg", "-loglevel", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
-                      "-i", snd, "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:v", "libx264", "-preset", "slow", "-b:v", "14M", "-minrate", "10M", "-maxrate", "18M",
-                      "-bufsize", "28M", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-t", str(K["total"]), "-movflags", "+faststart", out],
+                      "-i", snd, "-af", K.get("af", "loudnorm=I=-14:TP=-1.5:LRA=11"), "-c:v", "libx264", "-preset", "slow", "-crf", "11", "-maxrate", "24M", "-bufsize", "40M", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-t", str(K["total"]), "-movflags", "+faststart", out],
                      stdin=subprocess.PIPE)
 def txt(im, xy, s, font, fill, a=255, anchor="mm", sh=True):
     if a <= 0: return
