@@ -19,3 +19,12 @@ python3 ../pep/compose_pepinfo.py full smash.wav pepinfo-smash-untested.mp4 ../p
 Timing on the 4-core cloud container: about 40-70 s per frame per half at 720x1280, 12 spp (about an hour for 165 frames).
 Edit `card.json` for the hook, rehook and end-card text; every on-screen word and the caption go through
 `automation/instagram/audit.py` before anything is queued. On-screen text stays between the top band and 78% height.
+
+## Engine comparison (2026-11-22)
+`.claude/skills/` also holds arjun988/blender-skills v1.3.0 (MIT, commit 904f095, 94 text-only skills; `blender-director` routes).
+Its tips are written for a live Blender over MCP (`blender-mcp` addon), not headless bpy, so they are used here as guidance only.
+`LOOK=arjun` applies them to the same shot (AgX High Contrast, named 3-point rig, roughness micro-variation, 12 bounces, caustics);
+`ENGINE=EEVEE` renders with EEVEE (needs `apt-get install libegl1 libegl-mesa0 libgbm1`; runs on software GL in the container).
+Same 4 frames at 360x640: current look ~6 s/frame, arjun Cycles ~6 s/frame, arjun EEVEE ~42 s/frame.
+Result: the current look (Standard view, cyan rim + back lights) keeps the brand colour and the UNTESTED stamp; AgX washed the block
+to flat white and faded the stamp; EEVEE looked plasticky and was 7x slower without a GPU. Keep the default (`LOOK=base`, Cycles).
